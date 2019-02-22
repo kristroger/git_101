@@ -1,11 +1,15 @@
  body{
  	margin: 0;
  	font-family: Helvetica;
+ 	background-color: yellow;
  }
  #logo{
  	height: 80px;
  	width: 80px;
  	border-radius: 50%;
+ }
+ h1{
+ 	font-weight: 20;
  }
 
  #container{
